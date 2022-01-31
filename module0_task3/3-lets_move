@@ -1,1 +1,5 @@
-mv "[A-Z]*" /tmp/u
+ls -la
+ls -la /tmp/u
+mv [A-Z]* /tmp/u
+ls -la
+ls -la /tmp/u
