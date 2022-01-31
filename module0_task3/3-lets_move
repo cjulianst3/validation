@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 ls -la
-ls -la /tmp/u
 mv [A-Z]* /tmp/u
 ls -la
 ls -la /tmp/u
-=======
-mv Holberton School /tmp/u
->>>>>>> 4736e9b5bc466bd581fb14e92e1d7ca3459894a1
