@@ -1,1 +1,1 @@
-mv H* S* /tmp/u
+mv "[A-Z]*" /tmp/u
