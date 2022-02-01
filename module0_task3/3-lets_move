@@ -1,1 +1,1 @@
-mv -i [A-Z]* /tmp/u
+mv -i ./[A-Z]* /tmp/u
