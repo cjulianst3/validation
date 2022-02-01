@@ -1,1 +1,2 @@
-mv [A-Z]* /tmp/u
+ls -la
+#mv -i [[:upper:]]* /tmp/u
