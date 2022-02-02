@@ -1,1 +1,2 @@
-echo {1..10} | tr ' ' '\n' | while read line; do echo DevOps; done
+n=1
+while [ $n -le 10 ]; do echo DevOps; n=$(( n+1 )); done
