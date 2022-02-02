@@ -1,3 +1,2 @@
-ls -la
-#touch "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
-#echo "Hello DevOps" >  "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
+touch "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
+echo "Hello DevOps" >  "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
